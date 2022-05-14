@@ -16,7 +16,6 @@ import sys
 
 from docopt import docopt
 import requests
-import toml
 
 from api import API
 
